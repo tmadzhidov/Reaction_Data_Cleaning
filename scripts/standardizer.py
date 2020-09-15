@@ -4,13 +4,18 @@
 #############################################################################
 # GNU LGPL https://www.gnu.org/licenses/lgpl-3.0.en.html
 #############################################################################
+# Contributors: Ramil Nugmanov, Kazan Federal University, Kazan, Russia
+#               Arkadii Lin, University of Strasbourg, Strasbourg, France
+#               Natalia Duybankova, Janssen Pharmaceutica N.V., Beerse, Belgium
+#               Tagir Akmetshin, Kazan Federal University, Kazan, Russia / University of Strasbourg, Strasbourg, France
+#               Rail Suleymanov, Arcadia, St. Petersburg, Russia
+#               Timur Madzhidov, Kazan Federal University, Kazan, Russia
 # Corresponding Author: Timur Madzhidov and Alexandre Varnek
 # Corresponding Author email: tmadzhidov@gmail.com and varnek@unistra.fr
-# Main contributors: Arkadii Lin, Natalia Duybankova, Ramil Nugmanov, Rail Suleymanov and Timur Madzhidov
 # Copyright: Copyright 2020,
 #            MaDeSmart, Machine Design of Small Molecules by AI
 #            VLAIO project HBC.2018.2287
-# Credits: University of Kazan, Russia
+# Credits: Kazan Federal University, Russia
 #          University of Strasbourg, France
 #          University of Linz, Austria
 #          University of Leuven, Belgium
@@ -18,9 +23,6 @@
 #          Rail Suleymanov, Arcadia, St. Petersburg, Russia
 # License: GNU LGPL https://www.gnu.org/licenses/lgpl-3.0.en.html
 # Version: 00.01
-# Sources: [1] ReactionDecoder (or RDTool)
-#              author: Syed Asad Rahman https://github.com/asad
-#              repository: https://github.com/asad/ReactionDecoder
 #############################################################################
 
 from CGRtools.files import RDFRead, RDFWrite, SDFWrite, SDFRead, SMILESRead
